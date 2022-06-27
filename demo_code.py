@@ -133,6 +133,10 @@ def wrong_callable():
     if hasattr(number, '__call__'):
         return number()
 
+def foo():
+    """This should show up in the issues."""
+    print("Tada!!")
+
 if __name__ == "__main__":
     args = ["--disable", "all"]
     for i in range(len(args)):
