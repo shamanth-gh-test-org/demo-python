@@ -7,3 +7,4 @@ if __name__ == "__main__":
     greet_all(heights)
 
 # commit to new-branch
+# Second commit
