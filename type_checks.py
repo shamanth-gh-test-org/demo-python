@@ -8,6 +8,7 @@ if __name__ == "__main__":
 
 # Push event
 # Test PR 2
+# Test PR status draft
 # Push
 # Push webhook
 # Testing push event on default branch
