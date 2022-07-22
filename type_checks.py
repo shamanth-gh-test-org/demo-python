@@ -16,3 +16,4 @@ if __name__ == "__main__":
 # Testing push event on default branch 4
 # Local commit + push
 # Local branch push
+# Default branch push test
