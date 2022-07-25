@@ -7,4 +7,3 @@ if __name__ == "__main__":
     greet_all(heights)
 
 # Commit to master 1
-# Commit to master 2
