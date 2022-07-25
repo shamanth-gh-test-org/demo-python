@@ -24,3 +24,4 @@ if __name__ == "__main__":
 # Test commit to master
 # Test run with commit msg
 # Test run for PR 
+# commit 1 to master
