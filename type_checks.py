@@ -7,3 +7,4 @@ if __name__ == "__main__":
     greet_all(heights)
 
 # Commit test 1
+# Commit to master
