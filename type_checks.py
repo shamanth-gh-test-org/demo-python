@@ -1,4 +1,5 @@
 # commit to master 1
+# commit to master 2
 def greet_all(names: list[str]) -> None:
     for name in names:
         print('Hello ' + name)
