@@ -6,3 +6,4 @@
 # Test PR Model close2
 # Test PR Model Bug
 # Test PR Model select_related bug
+# Test PR Model fetch bug
