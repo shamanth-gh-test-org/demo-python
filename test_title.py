@@ -7,3 +7,4 @@
 # Test PR Model Bug
 # Test PR Model select_related bug
 # Test PR Model fetch bug
+# Test PR Model - trigger analysis bug
