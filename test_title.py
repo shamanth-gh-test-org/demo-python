@@ -15,3 +15,4 @@
 # Test PR Model - sync_on_close - update PR object
 # Test PR Model - sync_on_close - update PR object2
 # Test PR Model - with self.pullrequests.filter instead
+# Test PR Model - draft PR
