@@ -11,3 +11,4 @@
 # Test PR Model - trigger analysis bug2
 # Test PR Model - trigger analysis: FIX
 # Test PR Model - trigger analysis: merged/closed
+# Test PR Model - sync_on_close
