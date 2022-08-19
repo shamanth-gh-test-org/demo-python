@@ -4,3 +4,6 @@
 # Testing on DEV
 # Testing on dev2
 # Test commit push
+import os
+
+variable = os.getcwd()
