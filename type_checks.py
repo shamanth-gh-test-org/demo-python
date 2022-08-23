@@ -1,8 +1,9 @@
 #resolve 1
 
-# raise 3
-def raise_issues(issues=[1,2,3]):
-    pass
+def raise_issues(issues=None):
+    if issues is None:
+        issues = [1,2,3]
+    raise NotImplementedError()
 
 def greet_all(names: list[str]) -> None:
     for name in names:
