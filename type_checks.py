@@ -1,5 +1,8 @@
-import os
-import sys
+#resolve 1
+
+# raise 3
+def raise_issues(issues=[1,2,3]):
+    pass
 
 def greet_all(names: list[str]) -> None:
     for name in names:
