@@ -1,6 +1,5 @@
-# commit to master 1
-# commit to master 2
-# commit to master 3
+import os
+import sys
 def greet_all(names: list[str]) -> None:
     for name in names:
         print('Hello ' + name)
