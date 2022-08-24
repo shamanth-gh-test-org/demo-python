@@ -1,12 +1,3 @@
-import os
-import sys
-from collections import defaultdict
-
-
-def raise_issues(issues=[1,2,3]):
-    pass
-
-
 
 def greet_all(names: list[str]) -> None:
     for name in names:
