@@ -1,5 +1,4 @@
-#Raise 1
-import os
+#Resolve1
 
 def greet_all(names: list[str]) -> None:
     for name in names:
