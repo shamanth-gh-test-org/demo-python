@@ -1,4 +1,9 @@
-# Resolve 1
+# Raise issue
+import os
+import sys
+from collections import abc
+
+unused_var = 0
 
 def greet_all(names: list[str]) -> None:
     for name in names:
